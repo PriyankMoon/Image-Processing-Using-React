@@ -1,0 +1,12 @@
+/* Image Styling */
+
+/* Container for Images */
+.image {
+  margin: 1em;
+  columns: 340px; /* Number of columns based on available width */
+}
+
+
+img {
+    width: 100%;
+  }
